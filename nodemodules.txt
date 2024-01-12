@@ -1,0 +1,13 @@
+//docs for nodemodules implementation
+
+//installing a node package
+npm i [node package]
+
+//installing a specific node package
+npm i [node package]@[version]
+
+//removing node package
+npm remove [node package]
+
+//updating node package
+npm update or npm update [node package]
